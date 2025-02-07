@@ -1,4 +1,4 @@
-name: Build and deploy Python app to Azure Web App - moneylaunderingml
+name: Build and deploy Python App to Azure Web App - moneylaunderingml
 
 on:
   push:
